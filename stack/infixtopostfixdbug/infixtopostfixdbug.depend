@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667306786 source:/home/sriram/Desktop/c++/data_structures/stack/infixtopostfixdbug/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
